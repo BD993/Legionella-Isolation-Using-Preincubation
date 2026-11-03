@@ -1,7 +1,8 @@
 # Enhancing Culturability of Legionella spp. in Wastewater Samples
-# Reproducible analysis. Run from repository root: Rscript analysis.R
+# Reproducible analysis. Run from repository root: Rscript Pre-incubation_analysis_v1.0.R
 # Requires: ggplot2, dplyr, tidyr, DescTools
-# Input: data/*.csv ; Output: output/* ; no setwd() or choose.files().
+# Input: data/*.csv 
+# Output: output/* 
 # Figure 3 uses Legionella_27_37.csv for both temperature conditions.
 # Figure 5 (identification workflow) is intentionally excluded.
 
