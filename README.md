@@ -110,4 +110,10 @@ When reusing the code or data, please cite the associated scientific publication
 
 ## Citation
 
-Publication details will be added following publication of the associated manuscript.
+## Citation
+
+The R code and input data associated with this study are archived on Zenodo.
+
+**DOI:** https://doi.org/10.5281/zenodo.23917237
+
+If you use the code or data, please cite the archived repository and the associated scientific publication (once available).
