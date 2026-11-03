@@ -1,0 +1,34 @@
+
+{
+  "title": "Legionella Isolation Using Preincubation",
+  "upload_type": "software",
+  "description": "R code and input data for statistical analyses and figure generation associated with a study on Legionella isolation from industrial wastewater treatment plants using pre-incubation to improve culturability. The R code is licensed under MIT, and the input data under CC BY 4.0.",
+  "creators": [
+    {
+      "name": "Dörrie, Beatriz",
+      "affiliation": "Institute of Sanitary Engineering and Waste Management, Leibniz University Hannover, Germany"
+    },
+    {
+      "name": "Wehmeier, Laurine",
+      "affiliation": "Institute of Medical Microbiology and Virology, Dresden University of Technology, Germany"
+    },
+    {
+      "name": "Petzold, Markus",
+      "affiliation": "Institute of Medical Microbiology and Virology, Dresden University of Technology, Germany"
+    },
+    {
+      "name": "Nogueira, Regina",
+      "affiliation": "Institute of Sanitary Engineering and Waste Management, Leibniz University Hannover, Germany"
+    }
+  ],
+  "keywords": [
+    "Legionella",
+    "Wastewater treatment plants",
+    "Pre-incubation",
+    "Culturability",
+    "Culture methods",
+    "R",
+    "Reproducible research"
+  ],
+  "license": "MIT"
+}
