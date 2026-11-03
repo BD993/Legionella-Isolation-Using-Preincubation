@@ -100,6 +100,14 @@ The script automatically reads the input CSV files from `data/` and creates an `
 
 **Note:** Existing files directly inside the `output/` directory are deleted when the script starts.
 
+## License
+
+The R code in this repository is licensed under the MIT License (see [LICENSE](LICENSE)).
+
+The input CSV files in the `data/` directory are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0; see [DATA_LICENSE.md](DATA_LICENSE.md)).
+
+When reusing the code or data, please cite the associated scientific publication once available.
+
 ## Citation
 
 Publication details will be added following publication of the associated manuscript.
