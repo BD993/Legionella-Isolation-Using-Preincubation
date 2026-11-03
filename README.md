@@ -108,7 +108,6 @@ The input CSV files in the `data/` directory are licensed under the Creative Com
 
 When reusing the code or data, please cite the associated scientific publication once available.
 
-## Citation
 
 ## Citation
 
